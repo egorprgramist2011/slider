@@ -1,0 +1,51 @@
+.header{
+    background-color: rgb(122, 16, 221);
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    display: inline-block;
+    padding: 20px 20px 20px 20px;   
+}
+.list{
+    display: flex;
+    list-style: none; 
+    padding-left: 0px;
+}
+img{
+    width: 500px;    
+}
+.amogus{
+    text-align: center;
+}
+a:hover{
+    background-color: red;
+    position: relative;   
+}
+.sussssssy{
+    display: none;
+    position: absolute;
+    background-color: gray;   
+    width: 100%;
+}
+
+a:hover + .sussssssy{
+    display: block;
+   
+}
+.sussssssy:hover{
+    display: block;
+}
+.sussssssy li:hover{
+    background-color: red;      
+}
+
+li{
+    padding-right: 0px;
+    position: relative;
+}
+
+
+
+
